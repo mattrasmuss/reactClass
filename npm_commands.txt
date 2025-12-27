@@ -1,0 +1,8 @@
+
+fix project permissions:
+	"sudo chown -R matthewrasmussen {folder_name}"
+
+
+create new project:
+	"sudo npm create vite@latest"
+	choose react with typescript compiler

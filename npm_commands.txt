@@ -6,3 +6,8 @@ fix project permissions:
 create new project:
 	"sudo npm create vite@latest"
 	choose react with typescript compiler
+
+#used this when vite was too old for the tailwind installer
+npm install package-name@latest
+# or for development dependencies
+npm install package-name@latest --save-dev
